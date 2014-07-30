@@ -2,7 +2,7 @@
 void main()
 {
 cout<<"Welcome to GITHUB";
-cout<<"square"<<square;
+cout<<"square"<<square(1.0);
 }
 double square(double in_num)
 {
